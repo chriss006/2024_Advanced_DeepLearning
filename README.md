@@ -1,3 +1,3 @@
-- **Assignments for Lecture 'Advanced DeepLearning'
+- **Assignments for Lecture 'Advanced DeepLearning'**
   - Fall-Semester, 2024
-  - Seoul Women's University**
+  - Seoul Women's University
